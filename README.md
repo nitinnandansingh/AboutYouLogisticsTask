@@ -39,8 +39,8 @@ This table provides the daily export forecast to Warehouse 2 for each country.
 1. Clone the repository.  
 2. Ensure the following libraries are installed:  
    - `pandas`  
-3. Place the datasets in the appropriate `assets/` directory as specified in the notebook.  
-4. Run the notebook to generate the final output.
+3. Place the datasets in the appropriate `assets/` directory as specified in the notebook or make sure they already present upon cloning the repo.
+4. Run the notebooks `01_explore_assets.ipynb` to perform data exporation and  `02_tasks_implementation.ipynb` to generate the final output.
 
 ---
 
