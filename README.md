@@ -61,3 +61,4 @@ This table provides the daily export forecast to Warehouse 2 for each country.
 │   ├── 01_explore_assets.ipynb
 │   ├── 02_tasks_implementation.ipynb
 ├── README.md  
+├── environment.yml 
