@@ -17,7 +17,7 @@ The goal of this case study is to forecast the number of ordered items exported 
    - Converted date columns to `datetime` for consistency.  
 
 2. **Data Exploration**  
-   - Explore each column of each dataframe created from the datasets 
+   - Explored each column of each dataframe created from the datasets.
 
 3. **Tasks Implementation**  
    - **Step 1**: Aggregated B2C and SCD (Shipping & Picking Warehouse) data for **Warehouse 2** based on export rules.  
